@@ -3,8 +3,8 @@ import base64
 import os
 
 # --- Background Images ---
-login_bg = "C:/Users/DELL/Music/SIDDARTH/photos/multi.jpg"
-welcome_bg = "C:/Users/DELL/Music/SIDDARTH/photos/pic_2.jpg"
+login_bg = "photos/multi.jpg"
+welcome_bg = "photos/pic_2.jpg"
 
 # --- Set Background Image Function ---
 def set_background(image_path):
