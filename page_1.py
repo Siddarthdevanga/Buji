@@ -82,7 +82,7 @@ def set_background(image_path):
 # Define the page_1 function
 def page_1(navigate):
     """Renders the content for Page 1."""
-    set_background("C:/Users/DELL/Music/SIDDARTH/photos/pic_3.png")
+    set_background("photos/pic_3.png")
 
     # Use markdown for the content layout
     st.markdown(f"""
