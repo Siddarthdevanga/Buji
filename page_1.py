@@ -55,7 +55,7 @@ def set_background(image_path):
             }}
             .subheading {{
                 color: #00cadc;
-                font-size: 2.5em;
+                font-size: 1.5em;
                 margin-top: 0.5em;
             }}
             .retro-box {{
