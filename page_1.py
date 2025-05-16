@@ -88,7 +88,7 @@ def page_1(navigate):
     st.markdown(f"""
     <div class="main-container">
         <div class="heading">🎉🎂 WISH YOU MANY MORE HAPPY RETURNS OF THE DAY 🎂🎉</div>
-        <div class="subheading">Wishing you lots of love, joy, and laughter!</div>
+        <div class="subheading">Wishing you lots of love, joy, and laughter! HAPPY 23</div>
         <div class="retro-box">
             🌟 May your smile shine brighter than ever,As the moon shined brigther  on that day as you were born, Achieve all your dreams,and let every moment be as special as your presence!<br><br>
             😍Today is all about you the one who fills my days with happiness with a single text and with your sweet Voice,I feel so lucky you texted me back😍<br><br>
