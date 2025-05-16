@@ -91,7 +91,8 @@ def page_1(navigate):
         <div class="subheading">Wishing you lots of love, joy, and laughter!</div>
         <div class="retro-box">
             🌟 May your smile shine brighter than ever, your dreams soar high, and every moment be as special as your presence!<br><br>
-            😍Today is all about you—the one who fills my days with happiness with a single text and with your sweet Voice,I feel so lucky you texted me back😍<br><br>
+            😍Today is all about you the one who fills my days with happiness with a single text and with your sweet Voice,I feel so lucky you texted me back😍<br><br>
+            🫠No matter always remember you are always the best and one of the unique creations of god Just like me🫠<br><br>
             💖 Keep sparkling and spreading happiness. You deserve all the best life has to offer INCLUDING ME! 💖
         </div>
     </div>
