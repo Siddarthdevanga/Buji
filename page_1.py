@@ -54,7 +54,7 @@ def set_background(image_path):
                 text-overflow: ellipsis; /* Add ellipsis if text exceeds */
             }}
             .subheading {{
-                color: #8A2BE2;
+                color: #ffffff;
                 font-size: 1.5em;
                 margin-top: 0.5em;
             }}
