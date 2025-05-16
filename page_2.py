@@ -65,7 +65,7 @@ def page_2(navigate_to):
             st.error(f"⚠️ Error loading background image: {str(e)}")
 
     # Set background
-    image_path = "C:/Users/DELL/Music/SIDDARTH/photos/pic_4.png"
+    image_path = "photos/pic_4.png"
     set_background(image_path)
 
     # Initialize session state variable if not set
