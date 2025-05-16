@@ -90,9 +90,9 @@ def page_1(navigate):
         <div class="heading">🎉🎂 WISH YOU MANY MORE HAPPY RETURNS OF THE DAY 🎂🎉</div>
         <div class="subheading">Wishing you lots of love, joy, and laughter!</div>
         <div class="retro-box">
-            🎈 Today is not just your birthday, it’s a celebration of YOU! 🎈<br><br>
-            🌟 May your smile shine brighter than ever, your dreams soar high, and every moment be as special as your presence! 🌟<br><br>
-            💖 Keep sparkling and spreading happiness. You deserve all the best life has to offer! 💖
+            🌟 May your smile shine brighter than ever, your dreams soar high, and every moment be as special as your presence!<br><br>
+            😍Today is all about you—the one who fills my days with happiness with a single text and with your sweet Voice,I feel so lucky you texted me back😍<br><br>
+            💖 Keep sparkling and spreading happiness. You deserve all the best life has to offer INCLUDING ME! 💖
         </div>
     </div>
     """, unsafe_allow_html=True)
