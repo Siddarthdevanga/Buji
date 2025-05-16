@@ -93,7 +93,8 @@ def page_1(navigate):
             🌟 May your smile shine brighter than ever,As the moon shined brigther  on that day as you were born, Achieve all your dreams,and let every moment be as special as your presence!<br><br>
             😍Today is all about you the one who fills my days with happiness with a single text and with your sweet Voice,I feel so lucky you texted me back😍<br><br>
             🫠No matter always remember you are always the best and one of the unique creations of god Just like me🫠<br><br>
-            💖 Keep sparkling and spreading happiness. You deserve all the best life has to offer INCLUDING ME! 💖
+            💖 Keep sparkling and spreading happiness. You deserve all the best life has to offer INCLUDING ME! 💖<br><br>
+            🩺Also do remember to take care of yourself and your health🩺
         </div>
     </div>
     """, unsafe_allow_html=True)
